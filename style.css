@@ -1,0 +1,55 @@
+
+body {
+
+    background: url(Images/4e89aaca9caf1f1037cf1a8d92a4b51b.jpg) ;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.hero-text {
+    color:white;
+}
+
+.card.bottom {
+    background-color: grey;
+    margin-left: 0;
+    padding:30px;
+    border: 0;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+
+}
+
+.container {
+    max-width: 800px;
+    margin:auto;
+    padding: 0;
+    border:0;
+}
+
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.username-password {
+    text-align: left;
+    
+
+}
+
+i {
+    font-size: 50px;
+}
+
+
+h2 {
+    color:red;
+    text-align: left;
+}
+
+h2, .enterUsernamePassword {
+    margin-left: 45px;
+}
